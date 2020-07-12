@@ -2,8 +2,8 @@
 
 The goal of this project is to _recreate Google's homepage_ using knowledge of HTML/CSS.
 
-This is my solution to [The Odin Project](https://www.theodinproject.com/home)'s
-HTML/CSS challenge, see it live here: [**Google**]
+This is my solution to [The Odin Project](https://www.theodinproject.com/home)'s HTML/CSS challenge
+
 
 ## Project Takeaways
 
